@@ -2,11 +2,11 @@
 
 > A streamlined command-line utility for training and evaluating Support Vector Machine classifiers on high-dimensional handwritten digit image datasets.
 
-## Overview / Value Proposition
+## Overview
 
 Machine learning practitioners and developers evaluating multi-class classification workflows often encounter friction when setting up clean data pipelines, managing feature scaling, and interpreting model performance metrics without heavy visualization overhead. `digit-classification-svc` solves this by providing a self-contained, reproducible Python execution script that loads standard digit arrays, normalizes feature ranges, trains a non-linear Support Vector Machine estimator, and outputs granular validation reports directly to the console.
 
-## Under the Hood / How It Works
+## How It Works
 
 The execution pipeline operates through a structured sequence managed entirely in memory:
 
