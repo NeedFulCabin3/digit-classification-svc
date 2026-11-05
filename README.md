@@ -1,4 +1,4 @@
-# digit-classification-svc
+# Digit Classification SVC
 
 > A streamlined command-line utility for training and evaluating Support Vector Machine classifiers on high-dimensional handwritten digit image datasets.
 
